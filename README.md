@@ -6,7 +6,7 @@
        min-width="420px" 
        height="200px" 
        align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical&text_color=fff" 
+       src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical&text_color=fff&title_color=fff&icon_color=0ff" 
    />
   <img 
        width="48%" 
