@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cnogueira1)](https://github.com/anuraghazra/github-readme-stats)
+<p>https://github-readme-stats.vercel.app/api/wakatime?username=cnogueira1</p>
+<p>https://github.com/anuraghazra/github-readme-stats</p>
 
 
 <!--
