@@ -16,7 +16,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&layout=compact" 
    />
 </p>
-<p text-align="center" width="100%">
+<p align="center" width="100%">
 🚀 Javascript | ReactJS | React Native | NodeJS | SQL | HTML | CSS | GIT
 </p>
 
