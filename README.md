@@ -11,7 +11,7 @@
   <img 
        width="48%" 
        min-width="420px" 
-       height="160px" 
+       height="180px" 
        align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&layout=compact" 
    />
