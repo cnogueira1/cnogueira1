@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-<img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cnogueira1" /><img width="48%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical" />
+<img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&layout=compact" />  <img width="48%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical" />
 </p>
 
 
