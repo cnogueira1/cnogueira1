@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>
+<p align="center">
   <img 
        width="48%" 
        min-width="420px" 
