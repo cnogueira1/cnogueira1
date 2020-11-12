@@ -6,12 +6,12 @@
        min-width="420px" 
        height="200px" 
        align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical&text_color=fff&title_color=fff&icon_color=0ff" 
+       src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000" 
    />
   <img 
        width="48%" 
        min-width="420px" 
-       height="200px" 
+       height="160px" 
        align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&layout=compact" 
    />
