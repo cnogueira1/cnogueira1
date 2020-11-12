@@ -1,7 +1,20 @@
 ### Hi there 👋
 
 <p>
-<img width="48%" min-width="420px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&layout=compact" /><img width="48%" min-width="420px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical" />
+  <img 
+       width="48%" 
+       min-width="420px" 
+       height="200px" 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical&text_color=fff" 
+   />
+  <img 
+       width="48%" 
+       min-width="420px" 
+       height="200px" 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&layout=compact" 
+   />
 </p>
 
 
