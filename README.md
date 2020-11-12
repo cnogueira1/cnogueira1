@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<p>https://github-readme-stats.vercel.app/api/wakatime?username=cnogueira1</p>
-<p>https://github.com/anuraghazra/github-readme-stats</p>
+<p>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cnogueira1" />
+ 
+</p>
+
+
 
 
 <!--
