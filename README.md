@@ -23,6 +23,10 @@
    />
 </p>
 
+<p>
+  <img src="https://github.com/cnogueira1/cnogueira1/blob/master/codeStats.svg" alt="My Coding Activity/>
+</p>
+
 
 <!--
 **cnogueira1/cnogueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
