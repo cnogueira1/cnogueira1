@@ -22,7 +22,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&layout=compact" 
    />
 </p>
-<p align="center" >
+<p align="center" width="48%" >
 <!--START_SECTION:waka-->
 ```text
 JSX          3 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.35 % 
