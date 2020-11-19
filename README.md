@@ -22,7 +22,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&layout=compact" 
    />
 </p>
-<p align="center" width="48%" >
+
 <!--START_SECTION:waka-->
 ```text
 JSX          3 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.35 % 
@@ -32,7 +32,7 @@ SQL          1 hr            ██▒░░░░░░░░░░░░░░
 CSS          37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 <!--END_SECTION:waka-->
-</p>
+
 <!--
 **cnogueira1/cnogueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
