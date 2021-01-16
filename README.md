@@ -3,7 +3,7 @@
   align="center" 
   width="100%"
 >
-🚀 Javascript | ReactJS | React Native | NodeJS | SQL | HTML | CSS | GIT
+🚀 Javascript | ReactJS | React Native | TypeScript | NodeJS | SQL | HTML | CSS | GIT
 </p>
 
 <p align="center">
