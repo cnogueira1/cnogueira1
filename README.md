@@ -23,6 +23,14 @@
        src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000&cache_seconds=2500&hide_border=true" 
    />
 </p>
+<p>
+  <img 
+        width="48%" 
+        min-width="420px" 
+        height="200px" 
+        align="center" 
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=cnogueira1&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000&cache_seconds=2500&hide_border=true" title="Github Contributions" />
+</p>
 
 
 <!--START_SECTION:waka-->
