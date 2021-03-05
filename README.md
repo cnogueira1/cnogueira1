@@ -22,12 +22,14 @@
        align="center" 
        src="https://github-readme-stats.vercel.app/api?username=cnogueira1&show_icons=true&theme=radical&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000&cache_seconds=2500&hide_border=true" 
    />
-  <img 
-       height="220px" 
-       align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&show_icons=true&theme=radical&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000&cache_seconds=2500&hide_border=true" 
-   />
 </p>
+<p>
+  <img 
+   height="220px" 
+   align="center" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnogueira1&show_icons=true&theme=radical&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000&cache_seconds=2500&hide_border=true" 
+   />
+
 
 <!--START_SECTION:waka-->
 ```text
@@ -42,6 +44,7 @@ HTML         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--
 **cnogueira1/cnogueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
